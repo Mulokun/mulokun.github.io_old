@@ -29,8 +29,8 @@ public void Destroy()
 Encore du bllabllbab
 
 
-<video controls width="800" src="assets/videos/gameplay_dice.webm">
-<source src="assets/videos/gameplay_dice.webm" type="video/webm" />
+<video controls width="800" src="assets/videos/gameplay_dice.mp4">
+<source src="assets/videos/gameplay_dice.mp4" type="video/mp4" />
 Une video de gameplay
 </video>
 
