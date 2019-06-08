@@ -26,11 +26,10 @@ public void Destroy()
 </pre>
 </figure>
 
-Encore du bllabllbab
+Encore du bllassssbllbab
 
 
 <video controls width="800" src="assets/videos/gameplay_dice.mp4">
-<source src="assets/videos/gameplay_dice.mp4" type="video/mp4" />
 Une video de gameplay
 </video>
 
